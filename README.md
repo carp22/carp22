@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 📄 Know about my experiences [https://bit.ly/4d7ySIX](https://bit.ly/4d7ySIX)<br>- 👨‍💻 All of my projects are available at [https://bit.ly/3TQTtKk](https://bit.ly/3TQTtKk)</p>
+<p align="left">- 📄 Know about my experiences [Resume] (https://bit.ly/4d7ySIX)<br>- 👨‍💻 All of my projects are available at [Portfolio] (https://bit.ly/3TQTtKk)</p>
 
 ###
 
