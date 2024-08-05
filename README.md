@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://image.cdn2.seaart.ai/2023-08-04/52288341459013/166def4e5d0faf5fb6a662bc0250bc043b104308_high.webp"  />
+<img align="right" height="200" src="/tiger-avatar-coding.jpg"  />
 
 ###
 
