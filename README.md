@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iMzA4IiB2aWV3Qm94PSIwIDAgMjU2IDE1NCI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJJY29uaWZ5SWQxOTEyM2NhOTQ3ZDE0OGE5MzAiIHgxPSItMi43NzglIiB4Mj0iMTAwJSIgeTE9IjMyJSIgeTI9IjY3LjU1NiUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyMjk4QkQiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwRUQ3QjUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBmaWxsPSJ1cmwoI0ljb25pZnlJZDE5MTIzY2E5NDdkMTQ4YTkzMCkiIGQ9Ik0xMjggMFE3Ni44IDAgNjQgNTEuMlE4My4yIDI1LjYgMTA4LjggMzJjOS43MzcgMi40MzQgMTYuNjk3IDkuNDk5IDI0LjQwMSAxNy4zMThDMTQ1Ljc1MSA2Mi4wNTcgMTYwLjI3NSA3Ni44IDE5MiA3Ni44cTUxLjIgMCA2NC01MS4ycS0xOS4yIDI1LjYtNDQuOCAxOS4yYy05LjczNy0yLjQzNC0xNi42OTctOS40OTktMjQuNDAxLTE3LjMxOEMxNzQuMjQ5IDE0Ljc0MyAxNTkuNzI1IDAgMTI4IDBNNjQgNzYuOHEtNTEuMiAwLTY0IDUxLjJxMTkuMi0yNS42IDQ0LjgtMTkuMmM5LjczNyAyLjQzNCAxNi42OTcgOS40OTkgMjQuNDAxIDE3LjMxOEM4MS43NTEgMTM4Ljg1NyA5Ni4yNzUgMTUzLjYgMTI4IDE1My42cTUxLjIgMCA2NC01MS4ycS0xOS4yIDI1LjYtNDQuOCAxOS4yYy05LjczNy0yLjQzNC0xNi42OTctOS40OTktMjQuNDAxLTE3LjMxOEMxMTAuMjQ5IDkxLjU0MyA5NS43MjUgNzYuOCA2NCA3Ni44Ii8+PC9zdmc+" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
